@@ -6,6 +6,6 @@
 
 **Requirements:** <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/">View Requirements</a>
 
-**Solution Link:** <a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">Live Demo</a>
+**Solution Link:** <a href="https://cosminmoldovan.github.io/fcc-tribute-page/">Live Demo</a>
 
 <img src="project-thumbnail.png" />
