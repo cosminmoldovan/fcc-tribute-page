@@ -1,4 +1,4 @@
-# 📜 Steve Jobs Tribute Page
+# 🎗️ Steve Jobs Tribute Page
 **Project within:** Responsive Web Design Certification by Free Code Camp <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/">View Certification</a>
 
 
